@@ -3,9 +3,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        semi-supervised object detection: 5
+        object detection: 2
+        semi-supervised: 2
+        weakly-supervised: 2
+        consistency: 1
+        pseudo labeling: 2
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
